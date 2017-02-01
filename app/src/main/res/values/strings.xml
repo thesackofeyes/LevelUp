@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Level Up</string>
+    <string name="dataWarning">
+        WARNING!\n\nData collected by this application will be recorded and analysed.\n\nAll user data will remain anonymous.
+    </string>
+    <string name="agree">I Agree</string>
+    <string name="noThanks">No Thanks</string>
+</resources>
